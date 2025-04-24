@@ -2,7 +2,7 @@ import React from 'react'
 import { Routes, Route } from 'react-router-dom'
 import Home from './Pages/Home'
 import Login from './Pages/Login'
-import VerifyEmail from './Pages/verifyEmail'
+import VerifyEmail from './Pages/VerifyEmail'
 import ResetPassword from './Pages/ResetPassword'
 import { ToastContainer } from 'react-toastify';
 
